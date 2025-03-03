@@ -1,22 +1,46 @@
+<h1 align="center"> Projeto Voll </h1>
 
-![React com Typescript: desenvolvendo uma área administrativa com MUI, Recharts e Styled Components](https://imgur.com/Qgf3van.png)
+<p align="center">  </p>
 
-# React com Typescript: desenvolvendo uma área administrativa
+<div align="center">
 
-Este projeto faz parte da escola Front-end e tem como objetivo ensinar a construção de uma página de área administrativa utilizando React com Typescript e as bibliotecas Styled-Components, MUI e Recharts.
+  <a href="https://github.com/coelhoalexandre/projeto-alura-voll/blob/main/LICENSE" target="_blank"><img src="https://img.shields.io/badge/License-MIT-yellow.svg" alt="License: MIT"></a> <img src="https://img.shields.io/badge/Concluido-lightgreen.svg" alt="Concluido">
 
-## Funcionalidades do projeto
+</div>
 
-A página de área administrativa terá as seguintes funcionalidades:
+## Sumário
 
-- Dashboard: Página principal com tabela, gráficos e informações.
+- [Cursos e Instrutores](#cursos-e-instrutores)
+- [Objetivos do Projeto](#objetivos-do-projeto)
+- [Tecnologias Utilizadas](#tecnolgias-utilizadas)
 
-## Técnicas e tecnologias utilizadas
+## Cursos e Instrutores
 
-As técnicas e tecnologias que serão utilizadas neste projeto são:
+|Curso|Instrutores|
+|---|---|
+|[React com Typescript: desenvolvendo uma área administrativa](https://cursos.alura.com.br/course/react-typescript-area-administrativa)|[**MonicaHillman**](https://github.com/MonicaHillman)|
+|[React com Typescript: desenvolva um sistema de cadastro e autenticação](https://cursos.alura.com.br/course/react-typescript-sistema-cadastro-autenticacao)|[**MonicaHillman**](https://github.com/MonicaHillman)|
 
-- React: Biblioteca para construção de interfaces de usuário.
-- Typescript: Linguagem de programação que adiciona tipagem estática ao Javascript.
-- Styled-Components: Biblioteca para estilização de componentes React utilizando CSS-in-JS.
-- MUI: Biblioteca de componentes React para criação de interfaces de usuário modernas e responsivas.
-- Recharts: Biblioteca para criação de gráficos utilizando React.
+## Objetivos do Projeto
+- Construir um projeto com React e Typescript;
+- Desenvolver componentes estilizados com a biblioteca Styled-Components;
+- Conhecer a biblioteca MUI;
+- Criar gráficos com auxílio da biblioteca Recharts;
+- Saber como simular uma API;
+- Realizar a integração da API com os seus componentes;
+- Construir um projeto com React e Typescript;
+- Estilizar componentes com Styled Components;
+- Realizar a implantação de componentes como Modal, Stepper, Switch da biblioteca MUI;
+- Entender como construir requisições do tipo POST;
+- Conhecer a biblioteca de gerenciamento de estados MobX;
+- Saber como fazer rotas privadas com o React-router-dom.
+
+## Tecnolgias Utilizadas
+
+1. HTML
+2. CSS
+3. JS
+4. TS
+5. React
+
+Autor: [Alexandre Coelho](https://github.com/coelhoalexandre)
